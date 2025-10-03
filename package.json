@@ -1,0 +1,35 @@
+{
+  "name": "fundamentals-web-react",
+  "version": "1.0.0",
+  "description": "Rocketseat Formação React.js: Fundamentos",
+  "author": {
+    "name": "Felipe DR",
+    "email": "felipe.corp7@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felipe-dr/timer-web-react"
+  },
+  "bugs": {
+    "url": "https://github.com/felipe-dr/timer-web-react/issues",
+    "email": "felipe.corp7@gmail.com"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.0.0",
+    "@types/react-dom": "18.0.0",
+    "@vitejs/plugin-react": "1.3.0",
+    "typescript": "4.6.3",
+    "vite": "2.9.9"
+  }
+}
